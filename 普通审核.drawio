@@ -39,7 +39,7 @@
             <mxPoint x="540" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zu7yAgM1czK31J3Mpzon-34" value="下级单位" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zu7yAgM1czK31J3Mpzon-33">
+        <mxCell id="zu7yAgM1czK31J3Mpzon-34" value="部门上报自身&lt;div&gt;下级单位都已上报&lt;/div&gt;&lt;div&gt;下级单位都已审核&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zu7yAgM1czK31J3Mpzon-33">
           <mxGeometry x="0.0185" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
