@@ -1,9 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xDkwH7tTLlZd3Fz5l746">
-    <mxGraphModel>
+    <mxGraphModel dx="2315" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A9CHGRvWzfGjQHWeE8nw-5" target="A9CHGRvWzfGjQHWeE8nw-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-4" value="部门上报自身&lt;div&gt;所有下级都已上报&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-3">
+          <mxGeometry x="0.275" y="1" relative="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-5" value="部门" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="780" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A9CHGRvWzfGjQHWeE8nw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="809.5" as="sourcePoint" />
+            <mxPoint x="1080" y="809.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-7" value="业务处上报自身&lt;div&gt;所有下级都已上报&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-6">
+          <mxGeometry x="0.1333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-8" value="业务处" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="780" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-9" value="国库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A9CHGRvWzfGjQHWeE8nw-22" target="A9CHGRvWzfGjQHWeE8nw-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="820" as="sourcePoint" />
+            <mxPoint x="604" y="570" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-11" value="审核并上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-10">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-22" value="审核岗" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="777" width="100" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A9CHGRvWzfGjQHWeE8nw-24" target="A9CHGRvWzfGjQHWeE8nw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-31" value="填报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-25">
+          <mxGeometry x="-0.0593" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-24" value="填报岗" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="777" width="100" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-91;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="111.6" y="763.27" width="40" height="201.7" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-35" value="单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71.6" y="880" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
