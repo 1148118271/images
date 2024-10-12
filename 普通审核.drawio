@@ -84,6 +84,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zu7yAgM1czK31J3Mpzon-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zu7yAgM1czK31J3Mpzon-8" target="zu7yAgM1czK31J3Mpzon-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1030" as="sourcePoint" />
+            <mxPoint x="750" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="940" />
+              <mxPoint x="190" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
