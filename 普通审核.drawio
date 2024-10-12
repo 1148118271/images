@@ -19,10 +19,10 @@
           <mxGeometry x="520" y="780" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zu7yAgM1czK31J3Mpzon-7" value="业务处" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="780" width="110" height="60" as="geometry" />
+          <mxGeometry x="760" y="780" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zu7yAgM1czK31J3Mpzon-8" value="国库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zu7yAgM1czK31J3Mpzon-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zu7yAgM1czK31J3Mpzon-22" target="zu7yAgM1czK31J3Mpzon-24">
           <mxGeometry relative="1" as="geometry" />
