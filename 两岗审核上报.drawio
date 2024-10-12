@@ -76,6 +76,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-42" value="代替下级上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-36">
+          <mxGeometry x="-0.845" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-44" value="用户有所属角色&lt;div&gt;才能代替下级单位处理节点&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-36">
+          <mxGeometry x="0.6278" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A9CHGRvWzfGjQHWeE8nw-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="A9CHGRvWzfGjQHWeE8nw-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219.62" y="660" as="sourcePoint" />
