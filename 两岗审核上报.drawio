@@ -121,7 +121,7 @@
             <mxPoint x="200" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9CHGRvWzfGjQHWeE8nw-48" value="代替下级上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-47">
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-48" value="代替下级填报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-47">
           <mxGeometry x="0.2071" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
