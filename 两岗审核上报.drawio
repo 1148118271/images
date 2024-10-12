@@ -41,7 +41,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A9CHGRvWzfGjQHWeE8nw-11" value="审核并上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-10">
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-11" value="审核并上报&lt;div&gt;填报岗已填报&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A9CHGRvWzfGjQHWeE8nw-10">
           <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -65,6 +65,22 @@
         </mxCell>
         <mxCell id="A9CHGRvWzfGjQHWeE8nw-35" value="单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="71.6" y="880" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A9CHGRvWzfGjQHWeE8nw-9" target="A9CHGRvWzfGjQHWeE8nw-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="640" as="sourcePoint" />
+            <mxPoint x="30" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="887" y="660" />
+              <mxPoint x="30" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9CHGRvWzfGjQHWeE8nw-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="A9CHGRvWzfGjQHWeE8nw-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.62" y="660" as="sourcePoint" />
+            <mxPoint x="220" y="770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
