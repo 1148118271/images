@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtDnvfojQxaX2E4ap2Hc-5" value="可代替所有下级上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wtDnvfojQxaX2E4ap2Hc-2">
+        <mxCell id="wtDnvfojQxaX2E4ap2Hc-5" value="国库可代替所有下级上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wtDnvfojQxaX2E4ap2Hc-2">
           <mxGeometry x="-0.005" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -81,6 +81,29 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="600" as="sourcePoint" />
             <mxPoint x="440" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtDnvfojQxaX2E4ap2Hc-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P4-iIVbQAh0jM-V30Eyr-5" target="P4-iIVbQAh0jM-V30Eyr-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="450" />
+              <mxPoint x="480" y="600" />
+              <mxPoint x="480" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtDnvfojQxaX2E4ap2Hc-7" value="业务处可代替所有下级上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wtDnvfojQxaX2E4ap2Hc-6">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtDnvfojQxaX2E4ap2Hc-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P4-iIVbQAh0jM-V30Eyr-4">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="480" y="600" as="sourcePoint" />
+            <mxPoint x="520" y="610" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
