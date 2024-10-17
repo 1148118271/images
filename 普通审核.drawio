@@ -89,10 +89,10 @@
             <mxPoint x="840" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2gbLiO1C5kirPI0UPH_-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.596;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zu7yAgM1czK31J3Mpzon-4">
+        <mxCell id="s2gbLiO1C5kirPI0UPH_-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.596;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="650" as="sourcePoint" />
-            <mxPoint x="820" y="810" as="targetPoint" />
+            <mxPoint x="600.4" y="648.2" as="sourcePoint" />
+            <mxPoint x="599.9999999999999" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s2gbLiO1C5kirPI0UPH_-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zu7yAgM1czK31J3Mpzon-24">
@@ -101,10 +101,42 @@
             <mxPoint x="440" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s2gbLiO1C5kirPI0UPH_-12" value="代替审核&lt;div&gt;必须有角色权限&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s2gbLiO1C5kirPI0UPH_-5">
+          <mxGeometry x="-0.1851" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s2gbLiO1C5kirPI0UPH_-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="650" as="sourcePoint" />
-            <mxPoint x="320" y="780" as="targetPoint" />
+            <mxPoint x="320" y="787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gbLiO1C5kirPI0UPH_-13" value="代替审核&lt;div&gt;必须有角色权限&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s2gbLiO1C5kirPI0UPH_-6">
+          <mxGeometry x="-0.2993" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gbLiO1C5kirPI0UPH_-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="650" as="sourcePoint" />
+            <mxPoint x="800" y="778" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gbLiO1C5kirPI0UPH_-10" value="代替下级上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s2gbLiO1C5kirPI0UPH_-8">
+          <mxGeometry x="-0.125" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gbLiO1C5kirPI0UPH_-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="652" as="sourcePoint" />
+            <mxPoint x="550" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2gbLiO1C5kirPI0UPH_-11" value="代替下级上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s2gbLiO1C5kirPI0UPH_-9">
+          <mxGeometry x="-0.0469" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
